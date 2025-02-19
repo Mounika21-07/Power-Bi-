@@ -7,10 +7,15 @@ This project focuses on analyzing retail store sales data using Power BI. The in
 ## Key Insights & Features
 
 ✅ Sales Analysis – Yearly, quarterly, and monthly sales breakdown
+
 ✅ Product Performance – Top-selling and bottom-rated products
+
 ✅ Revenue Trends – Category-wise total sales and revenue contribution
+
 ✅ Payment Methods – Popular payment modes used by customers
+
 ✅ State-wise Sales – Regional sales distribution
+
 ✅ Order & Delivery Analysis – Delayed orders and delivery performance
 
 ## Technologies Used
